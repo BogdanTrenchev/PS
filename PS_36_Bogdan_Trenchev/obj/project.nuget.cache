@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdxEEFLOglAYwcxBu49HXMA3wzHoIucsUzZKU+p2MKc1dfDnsl5rm34vG2V6TMwrOxgoTXQwROfDwkX8N6RNxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogda\\Desktop\\PS\\PS_36_Bogdan_Trenchev\\UserLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogda\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
